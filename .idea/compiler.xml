@@ -9,8 +9,8 @@
         <module name="dsa_cracker" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="dsa_cracker" target="1.5" />
+    <bytecodeTargetLevel target="7">
+      <module name="dsa_cracker" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
